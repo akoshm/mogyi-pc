@@ -1,0 +1,48 @@
+frontend:
+page navigation -> react nav? 
+                -> create routes? -> react-router?
+landingpage:
+    side:
+        items:
+            css:
+            !design indvididual card look
+                    font-family
+                    font-color:
+                        lightblue?
+                    bg-color
+                        multiple colors?
+                        metallic feel?
+                    padding/space between card+card and card+border
+                    animation
+                        (card moves to the right a little [on mouse hover])
+                        (card returns to original pos [when mouse hover is off])
+Call to action page?
+About us page?
+Contact page?
+ordering mechanics
+    cart
+        add
+        remove(delete)
+        edit
+            quantity
+        confirm prompt(?) window
+
+backend:
+mongodb?
+PC buyables will be loaded from backend.
+    scheme
+    database
+        server.js
+            add
+            delete
+            edit
+Can rest api be implemented somehow?
+What is rest api?
+
+
+
+MISC:
+rename landingpage to vendor page?
+landingpage goal is to highlight popular products and discounts = things the company wants to bring attention to
+rename item to product?
+dark mode?
