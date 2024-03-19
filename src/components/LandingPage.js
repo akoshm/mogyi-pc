@@ -1,18 +1,15 @@
 import './LandingPage.css'
-
 import Sidebar from "./Sidebar.js"
-import Content from "./Content.js"
-import Header from "./Header.js"
-
-
 export default function Landing() {
     return (
         <>
             <div class="parent">
-                <Header />
                 <div class="container">
                     <Sidebar />
-                    <Content />
+                    <div class="content">
+                        <h2 class="text">Content</h2>
+
+                    </div>
                 </div>
             </div>
         </>

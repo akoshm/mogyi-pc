@@ -1,12 +1,17 @@
 what i want to do:
 
-add: react-router
+edit:rename Header to MainNav
 fix: folder structure
+	Explain:
+		Content.js : 	Contains the contents of the browsed page
+		Suggestion: 	Delete
+		Reason:		Content will change based on page, therefore it goes inside invidiual pages and not one common component
 add: pages:landing,about,contact,
-
+fix: c
 optional: use some API in website for practice purposes e.g.:weather (use postman for api?)
+optional: make design responsive(mobile friendly?)
+todo:make color scheme changeable (user can choose from several different color schemes)
 add: color scheme for website: ocean blue
 
 DONE:
-
-fix: "content" div fills in all available space 
+fix:moved Header component to App.js
