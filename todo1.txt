@@ -1,0 +1,12 @@
+what i want to do:
+
+add: react-router
+fix: folder structure
+add: pages:landing,about,contact,
+
+optional: use some API in website for practice purposes e.g.:weather (use postman for api?)
+add: color scheme for website: ocean blue
+
+DONE:
+
+fix: "content" div fills in all available space 
