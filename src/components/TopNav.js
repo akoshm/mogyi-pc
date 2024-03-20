@@ -5,10 +5,10 @@ function TopNav() {
         <div class="header">
             <h2 class="text">Header</h2>
             <nav>
-                <li><Link to="/">Home</Link></li>
-                <li><Link to="/about">About Us</Link></li>
-                <li><Link to="/contact">Contact</Link></li>
-                <li><Link to="/products">Products</Link></li>
+                <li class='btn'><Link to="/">Home</Link></li>
+                <li class='btn'><Link to="/about">About Us</Link></li>
+                <li class='btn'><Link to="/contact">Contact</Link></li>
+                <li class='btn'> <Link to="/shop">Shop</Link></li>
             </nav>
         </div>
     </>)

@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wdth,wght@0,75..100,400..700;1,75..100,400..700&display=swap');
 
-.item {
+.btn {
     font-family: 'Cabin';
     color: black;
     padding: 10px;
@@ -9,18 +9,18 @@
     transition: 0.3s;
 }
 
-.item:hover {
+.btn:hover {
     background-color: #3e8e41;
     color: white;
 }
 
-.item:hover {
+.btn:hover {
     animation-name: jump;
     animation-duration: 0.5s;
     animation-delay: 0.05s;
 }
 
-.item:active {
+.btn:active {
     background-color: orange;
     transition: 0.1s;
 }

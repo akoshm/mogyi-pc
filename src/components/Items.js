@@ -18,7 +18,7 @@ function Items() {
     const renderFruits = () => {
         const FruitsList = [];
         for (const fruit of fruits) {
-            FruitsList.push(<li class="item" key={fruit}>{fruit}</li>);
+            FruitsList.push(<li class="btn" key={fruit}>{fruit}</li>);
         }
         return <ul>{FruitsList}</ul>;
     };
