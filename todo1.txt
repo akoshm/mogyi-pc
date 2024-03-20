@@ -1,12 +1,8 @@
 what i want to do:
 
-fix: folder structure
-add:contact page
-
+todo: fill up home,about,contact with content
 
 edit: move Sidebar comp. to Shop.js
-
-optional fix: change items to cards?
 
 optional: use some API in website for practice purposes e.g.:weather (use postman for api?)
 optional: make design responsive(mobile friendly?)
@@ -14,8 +10,6 @@ todo:make color scheme changeable (user can choose from several different color 
 add: color scheme for website: ocean blue
 
 DONE:
-fix: renamed "Landingpage" to "Home"
-fix: moved main.css to /src
-fix: merged Items.css with main.css
-
+style: renamed li to .topnav
+add:contact page
 
