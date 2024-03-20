@@ -1,4 +1,4 @@
-export default function Landing() {
+export default function Home() {
     return (
         <>
             <div class="parent">

@@ -1,9 +1,9 @@
 what i want to do:
 
 fix: folder structure
-add: pages:landing,about,contact,
-rename:LandingPage.css to main.css
-style: renamed .item to .btn
+add:contact page
+
+
 edit: move Sidebar comp. to Shop.js
 
 optional fix: change items to cards?
@@ -14,6 +14,8 @@ todo:make color scheme changeable (user can choose from several different color 
 add: color scheme for website: ocean blue
 
 DONE:
-add: create Shop.js Component
-remove:App.css
+fix: renamed "Landingpage" to "Home"
+fix: moved main.css to /src
+fix: merged Items.css with main.css
+
 

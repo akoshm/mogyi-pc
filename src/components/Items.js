@@ -1,5 +1,4 @@
 
-import "./Items.css"
 function Items() {
     const fruits = ["Operációs rendszerek",
         "Irodai alkalmazások",
