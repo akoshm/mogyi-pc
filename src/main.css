@@ -3,6 +3,7 @@
 body {
     --primary: #6346e5;
     --secondary: #3b82f6;
+    background-color: rgb(54, 114, 170);
 }
 
 a:link,
@@ -12,7 +13,19 @@ a:visited {
 
 .header {
     height: 30%;
-    background-color: cornflowerblue;
+    background: linear-gradient(90deg, rgba(99, 70, 229, 1) 13%, rgba(121, 150, 198, 1) 59%, rgba(99, 70, 229, 1) 85%);
+    border-radius: 15px;
+    box-shadow: 0 0 10px 10px rgba(27, 149, 206, 1);
+}
+
+.title {
+    justify-content: center;
+    display: flex;
+    font-size: 50px;
+    font-family: serif;
+    font-weight: bold;
+    color: sandybrown;
+    text-shadow: 2px 2px #FF0000;
 }
 
 .side {

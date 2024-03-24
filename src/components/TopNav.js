@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 function TopNav() {
     return (<>
         <div class="header">
-            <h2 class="text">Header</h2>
+            <h2 class="title">MOGYI-PC</h2>
             <nav>
                 <li class='btn topnav'><Link to="/">Home</Link></li>
                 <li class='btn topnav'><Link to="/about">About Us</Link></li>
