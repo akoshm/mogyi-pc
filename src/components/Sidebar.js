@@ -1,9 +1,13 @@
-import Items from "./Items.js"
+import Categories from "./Categories.js"
 function Sidebar() {
     return (<>
         <div class="side">
-            <h2 class="text">Side</h2>
-            <Items />
+            <div>
+                <h2 class="text">Side</h2>
+                <input style={{ margin: "10px" }}></input>
+                <Categories />
+            </div>
+
         </div>
     </>)
 }

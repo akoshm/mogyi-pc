@@ -1,7 +1,13 @@
 what i want to do:
 
-todo: fill up home,about,contact with content
+style:sidebar
 
+
+
+
+------------------------------------------------
+todo: fill up home,about,contact with content
+todo: redo main.css styles
 edit: move Sidebar comp. to Shop.js
 
 optional: use some API in website for practice purposes e.g.:weather (use postman for api?)
@@ -10,6 +16,5 @@ todo:make color scheme changeable (user can choose from several different color 
 add: color scheme for website: ocean blue
 
 DONE:
-style: renamed li to .topnav
-add:contact page
+
 
